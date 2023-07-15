@@ -14,3 +14,8 @@ def index(request):
 # Flow
 
 - urls -> views -> templates
+
+# Model
+
+- Class
+- Run to make migrations and execute the migrations
